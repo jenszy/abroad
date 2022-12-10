@@ -1,0 +1,16 @@
+/* Selects all <h1>, <h2> and <h3> elements in the page */
+h1, h2, h3 {color: rgb(81, 143, 108); font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+
+/* Selects the HTML element with id = "result-parent" */
+#PE {
+	font-size: 12pt; 
+	color: red; /* element is initially hidden */
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Selects all the "div" elements whose class = "myparagraph" */
+div.myparaghraph { font-size: 14pt; color: red; }
+
+
